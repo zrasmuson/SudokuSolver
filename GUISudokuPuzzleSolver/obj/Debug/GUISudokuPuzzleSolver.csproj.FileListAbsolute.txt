@@ -1,0 +1,10 @@
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolver\bin\Debug\GUISudokuPuzzleSolver.exe.config
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolver\bin\Debug\GUISudokuPuzzleSolver.exe
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolver\bin\Debug\GUISudokuPuzzleSolver.pdb
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolver\obj\Debug\GUISudokuPuzzleSolver.MainForm.resources
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolver\obj\Debug\GUISudokuPuzzleSolver.Properties.Resources.resources
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolver\obj\Debug\GUISudokuPuzzleSolver.csproj.GenerateResource.cache
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolver\obj\Debug\GUISudokuPuzzleSolver.csproj.CoreCompileInputs.cache
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolver\obj\Debug\GUISudokuPuzzleSolver.exe
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolver\obj\Debug\GUISudokuPuzzleSolver.pdb
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolver\obj\Debug\GUISudokuPuzzleSolver.csprojAssemblyReference.cache

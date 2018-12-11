@@ -1,0 +1,17 @@
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\bin\Debug\SudokuPuzzleSolverTests.dll
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\bin\Debug\SudokuPuzzleSolverTests.pdb
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\bin\Debug\GUISudokuPuzzleSolver.exe
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\bin\Debug\GUISudokuPuzzleSolver.pdb
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\bin\Debug\GUISudokuPuzzleSolver.exe.config
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\obj\Debug\GUISudokuPuzzleSolverTests.csprojAssemblyReference.cache
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\obj\Debug\GUISudokuPuzzleSolverTests.csproj.CoreCompileInputs.cache
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\obj\Debug\GUISudokuPuzzleSolverTests.csproj.CopyComplete
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\obj\Debug\SudokuPuzzleSolverTests.dll
+C:\Users\zrasm\source\repos\GUISudokuPuzzleSolver\GUISudokuPuzzleSolverTests\obj\Debug\SudokuPuzzleSolverTests.pdb
